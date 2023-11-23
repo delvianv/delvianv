@@ -1,12 +1,14 @@
 ## About me
 
-**I specialise in building beautiful cross-platform desktop apps for Windows, macOS, 
-and Linux using Python and Qt because we still need desktop apps for some tasks and 
-most developers seem to be building web or mobile apps.  Desktop apps are also more 
-reliable and secure because they run on your computer, so you don’t need to rely on 
-Internet access to use them and your data stays private.  I also have experience  
-building web and mobile apps for iOS and Android using Django and JavaScript with React 
-and React Native.**
+**I'm a software developer specialising in making beautiful cross-platform desktop apps 
+for Windows, macOS, and Linux using Python and Qt according to the GNOME Human 
+Interface Guidelines.  I also have experience in making web and mobile apps for iOS and 
+Android using Django and JavaScript with React and React Native.**
+
+**I specialise in making desktop apps because most developers seem to be specialising 
+in web or mobile apps, but we still need desktop apps for some activities.  Desktop 
+apps are also more reliable and secure because they run on your computer, so you don’t 
+need to rely on Internet access to use them and your data stays private.**
 
 **My work experience for the past 18 years is a combination of hardware and software 
 roles.  Highlights in my career include maintaining communication equipment for the SA 
