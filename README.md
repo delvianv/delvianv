@@ -19,10 +19,10 @@ I learned my first programming language, BASIC, in 1998 when I was 12 years old 
 borrowing books from my local library.  That was before we had the Internet as we know 
 it today.  I learned my second and third languages, Pascal and Java, in 2001 when my 
 high school started teaching programming.  I also learned **Python** and **JavaScript** 
-around that time, which are the main languages that I use today.  I built a complete 
+around that time, which are the main languages that I use today.  I made a complete 
 point-of-sale app in Pascal for my final project when I graduated high school.
 
-I also learned **Linux** from books and CDs that I borrowed from the local library 
+I also learned **Linux** from books and CDs that I borrowed from my local library 
 around 2001, and I’ve been using it as my main workstation ever since.  I also have 
 experience using Windows and macOS.
 
