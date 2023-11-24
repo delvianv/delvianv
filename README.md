@@ -12,7 +12,7 @@ need to rely on Internet access to use them and your data stays private.**
 
 **My work experience for the past 18 years is a combination of hardware and software 
 roles.  Highlights in my career include maintaining communication equipment for the SA 
-Air Force, programming building automation systems, and building apps for a financial 
+Air Force, programming building automation systems, and making apps for a financial 
 service company.**
 
 I learned my first programming language, BASIC, in 1998 when I was 12 years old by 
