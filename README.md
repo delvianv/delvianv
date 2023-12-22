@@ -14,7 +14,7 @@ One of the things I like about programming is being able to build something out 
 
 **I have a rare combination of skills**
 
-I graduated from a technical high school with qualifications in Electrical Engineering and in Logic Systems. I also studied Electronics and Logic Systems at college, so I understand exactly how the software interacts with the hardware.
+I graduated from a technical high school with qualifications in Electrical and in Logic Systems. I also studied Electronics and Logic Systems at college, so I understand exactly how the software interacts with the hardware.
 
 **I value teamwork and discipline**
 
