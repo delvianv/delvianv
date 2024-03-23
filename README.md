@@ -2,7 +2,7 @@
 
 **I'm a software developer specialising in building beautiful cross-platform desktop apps for Windows, macOS, and Linux using Python and Qt.  I also have experience in building web and mobile apps for iOS and Android using Django and JavaScript with React and React Native.**
 
-_My work experience for the past 20 years is a combination of software and hardware roles.  Highlights in my career include building apps for a financial service company, programming automation systems, and maintaining communication equipment for the SA Air Force._
+_My work experience for the past 20 years is a combination of software and hardware roles.  Highlights in my career include building apps for a financial service company, programming electrical automation systems, and maintaining communication equipment for the SA Air Force._
 
 **I enjoy learning**
 
